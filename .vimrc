@@ -36,7 +36,7 @@ Plugin 'tpope/vim-dispatch'
 Plugin 'compnerd/arm64asm-vim'
 
 " Generic Programming Support 
-Plugin 'jakedouglas/exuberant-ctags'
+" Plugin 'jakedouglas/exuberant-ctags'
 Plugin 'honza/vim-snippets'
 Plugin 'Townk/vim-autoclose'
 Plugin 'tomtom/tcomment_vim'
