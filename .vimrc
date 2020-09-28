@@ -83,6 +83,9 @@ Plugin 'jadercorrea/elixir_generator.vim'
 Plugin 'lambdatoast/elm.vim'
 
 " Theme / Interface
+" Plugin 'tomasr/molokai'
+Plugin 'dracula/vim'
+
 Plugin 'AnsiEsc.vim'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'vim-airline/vim-airline'
@@ -143,7 +146,8 @@ if (has("termguicolors"))
 endif
 
 let base16colorspace=256  " Access colors present in 256 colorspace
-colorscheme spacegray
+
+" colorscheme spacegray
 " colorscheme spacemacs-theme
  
 let g:spacegray_underline_search = 1
