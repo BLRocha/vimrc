@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img width="600" src="https://i.imgur.com/b3WZn4K.jpg" alt="image VIM">
+    <img width="600" src="https://i.imgur.com/QLICFLT.png" alt="image VIM">
 </h2>
 
 ----
